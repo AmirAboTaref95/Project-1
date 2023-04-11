@@ -1,10 +1,8 @@
-import React from 'react'
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
 
 const Details = () => {
-  return (
-    <Text>Details</Text>
-  )
-}
+  return <Text>Details</Text>;
+};
 
-export default Details
+export default Details;
